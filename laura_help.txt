@@ -1,0 +1,17 @@
+// loop through all keys in object:
+/*
+    var keys = Object.keys(myObject);
+    for (var i =0; i < keys.length; i++) {
+        myvalue = myObject[keys[i]]];
+    }
+        
+        */
+        
+// check if item in list
+/*
+
+    if (myList.indexOf(item) > -1) {
+        <this means item is in myList>
+        
+    }
+    */
